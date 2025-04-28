@@ -82,7 +82,7 @@
   </div></td>
     <td valign="top"> 
        <div class="project-card">
-        <a href="https://prem-mule.github.io/AppleVisionClone-Project/" class="project-title">
+        <a href="">
           <img src="https://i.imgur.com/sOs3IPt.jpg" alt="AppleVisionClone-Project Thumbnail" width='500' height='300' class="project-thumbnail">
       </a>
       <p class="project-description">Recreated Apple's cutting-edge computer vision technology. Dive into the future of image recognition with this groundbreaking project.</p>
